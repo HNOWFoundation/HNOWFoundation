@@ -24,7 +24,7 @@
 
 * **Sponsor**
   I nostri sponsor.
-  [Visita Sponsor](https://hnowmoodle.pro/egw.php)
+  [Visita Sponsor](mailto:hacknow@ikmail.com) / Diventa nostro sponsor
 
 ## Linguaggi di Programmazione
 
